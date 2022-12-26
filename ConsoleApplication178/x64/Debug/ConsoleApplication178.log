@@ -1,0 +1,4 @@
+﻿  ConsoleApplication178.cpp
+E:\C++\ConsoleApplication178\ConsoleApplication178\ConsoleApplication178.cpp(294,21): warning C4129: 'D': unrecognized character escape sequence
+E:\C++\ConsoleApplication178\ConsoleApplication178\ConsoleApplication178.cpp(368,16): warning C4309: 'initializing': truncation of constant value
+  ConsoleApplication178.vcxproj -> E:\C++\ConsoleApplication178\x64\Debug\ConsoleApplication178.exe

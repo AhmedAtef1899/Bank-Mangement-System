@@ -1,0 +1,7 @@
+ BANK ACCOUNT
+				NAME:             Ahmed
+				ACCOUNT NUMBER:   333
+				AGE:              20 Years
+				CITY:             arab
+				MOBILE NUMBER:    01116061728
+				DEPOSITE:        2000$
